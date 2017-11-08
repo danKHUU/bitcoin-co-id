@@ -17,6 +17,7 @@ var publicBitcoincoid = new Bitcoincoid();
 publicBitcoincoid.getTicker('btc_idr', console.log);
 
 //// get latest prices
+
 publicBitcoincoid.getTicker("btc_idr", function(err, data)
 {
     console.log('bid ' + data.ticker.sell + ' ask ' + data.ticker.sell + ' last price ' + data.ticker.last);
