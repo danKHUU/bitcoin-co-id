@@ -20,5 +20,7 @@ publicBitcoincoid.getTicker('btc_idr', console.log);
 
 publicBitcoincoid.getTicker("btc_idr", function(err, data)
 {
-    console.log('bid ' + data.ticker.sell + ' ask ' + data.ticker.sell + ' last price ' + data.ticker.last);
+   
+   console.log('bid ' + data.ticker.sell + ' ask ' + data.ticker.sell + ' last price ' + data.ticker.last);
+   
 });
