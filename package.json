@@ -1,0 +1,49 @@
+{
+  "name": "bitcoin-co-id",
+  "version": "0.0.1",
+  "description": "bitcoin.co.id API Client for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danKHUU/bitcoin-co-id.git"
+  },
+  "keywords": [
+    "vip.bitcoin.co.id",
+    "bitcoin.co.id",
+    "exchange",
+    "trading",
+    "bitcoin",
+    "ethereum",
+    "ethereum classic",
+    "litecoin",
+    "bitcoin cash",
+    "ripple",
+    "wave",
+    "zcoin",
+    "nxt",
+    "dogecoin",
+    "dash",
+    "nem",
+    "bitshares",
+    "stellar lumens",
+    "rupiah",
+    "Indonasia"
+  ],
+  "author": "DanKhuu <dankhuux@gmail.com>",
+  "license": "ISC",
+  "url": "https://github.com/danKHUU/bitcoin-co-id/master/LICENSE.txt",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3",
+    "verror": "^1.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/danKHUU/bitcoin-co-id/issues"
+  },
+  "homepage": "https://github.com/danKHUU/bitcoin-co-id#readme"
+}
