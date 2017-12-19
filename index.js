@@ -62,7 +62,7 @@ Bitcoincoid.prototype._request = function (options, callback) {
   };
 
   for (var key in options) {
-    requestOptions[x] = options[x];
+    requestOptions[key] = options[key];
   }
   
   request(requestOptions, function(err, response, body) {
