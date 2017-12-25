@@ -123,10 +123,6 @@ Bitcoincoid.prototype.depth = function(pair, callback) {
   this._get(pair, 'depth', callback);
 }
 
-Bitcoincoid.prototype.getTicker = function(pair, callback) {
-  this._get(pair,'ticker', callback);
-}
-
 // 
 // Private API
 //
