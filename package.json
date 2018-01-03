@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-co-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bitcoin.co.id API Client for Node.JS",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,7 @@
     "bitshares",
     "stellar lumens",
     "rupiah",
-    "Indonasia"
+    "Indonesia"
   ],
   "author": "DanKhuu <dankhuux@gmail.com>",
   "license": "ISC",
